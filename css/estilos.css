@@ -3,7 +3,7 @@ body
     background: #1e1f24;
     color: #333;
     text-align: center;
-    font-family: "Arial";
+    font-family: Arial;
     font-size: 16px;
     margin: 0;
     padding: 0;
@@ -19,7 +19,7 @@ body
     padding: 0.5em;
 }
 
-#cabecera logo
+#cabecera #logo
 {
     width: 20px;
     vertical-align: middle;
@@ -45,14 +45,9 @@ body
 {
     font-size: 20px;
 }
-
 #post
 {
-<<<<<<< HEAD
-    background-color: white;
-    padding: 1em;
-}
-=======
+    background: white;    
     padding: 1em;
 }
 
@@ -63,4 +58,3 @@ body
     text-align: center;
     padding: 0.5em;
 }
->>>>>>> da5793720c230ec9f781ad24cd06f41489afc3f2
